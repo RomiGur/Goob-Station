@@ -12,7 +12,5 @@ ent-JusticeStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
 ent-CMORapidSyringeGunStealObjective = { ent-BaseCMOStealObjective }
     .desc = { ent-BaseCMOStealObjective.desc }
-ent-ExecutiveBriefcaseStealObjective = { ent-BaseTraitorStealObjective }
-    .desc = { ent-BaseTraitorStealObjective.desc }
 ent-GeminiProjectorStealObjective = { ent-BaseRDStealObjective }
     .desc = { ent-BaseRDStealObjective.desc }

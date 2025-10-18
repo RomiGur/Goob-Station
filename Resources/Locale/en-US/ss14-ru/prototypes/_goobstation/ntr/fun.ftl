@@ -1,3 +1,0 @@
-ent-WaterCoolerGold = executive water cooler
-    .desc = Your taxes were spent on this...
-    .suffix = full

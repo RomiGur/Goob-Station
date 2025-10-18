@@ -11,7 +11,6 @@ construction-graph-tag-mod-plating = покрытие скафандра MOD
 construction-graph-tag-gas-mask = противогаз
 construction-graph-tag-toy-sword = игрушечный меч
 construction-graph-tag-templar-helmet = шлем тамплиера
-construction-graph-tag-blue = самодельный щит
 construction-graph-tag-budget-insuls = бюджетные изолированные перчатки
 construction-graph-tag-nun-hood = капюшон монахини
 construction-graph-tag-toolbox = ящик инструментов

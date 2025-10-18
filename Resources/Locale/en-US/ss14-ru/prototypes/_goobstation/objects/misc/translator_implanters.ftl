@@ -1,12 +1,8 @@
-ent-LibrarianTranslatorImplanter = { ent-BaseTranslatorImplanter }
-    .suffix = Librarian
+ent-LibrarianTranslatorImplanter = librarian translator implant
     .desc = { ent-BaseTranslatorImplanter.desc }
-ent-ChevalTranslatorImplanter = { ent-BaseTranslatorImplanter }
-    .suffix = Cheval
+ent-ChevalTranslatorImplanter = Cheval translator implant
     .desc = { ent-BaseTranslatorImplanter.desc }
-ent-BasicSpaceItalianTranslatorImplanter = { ent-BaseTranslatorImplanter }
-    .suffix = Basic Space Italian
+ent-BasicSpaceItalianTranslatorImplanter = basic space italian translator implanter
     .desc = { ent-BaseTranslatorImplanter.desc }
-ent-AdvancedSpaceItalianTranslatorImplanter = { ent-BaseTranslatorImplanter }
-    .suffix = Advanced Space Italian
+ent-AdvancedSpaceItalianTranslatorImplanter = advanced space italian translator implanter
     .desc = { ent-BaseTranslatorImplanter.desc }
