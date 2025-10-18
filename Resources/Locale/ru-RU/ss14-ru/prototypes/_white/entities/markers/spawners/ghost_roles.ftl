@@ -1,3 +1,3 @@
 ent-SpawnPointGhostXenomorph = { ent-BaseAntagSpawner }
-    .suffix = Грудолом
+    .suffix = Личинка ксеноморфа
     .desc = { ent-BaseAntagSpawner.desc }

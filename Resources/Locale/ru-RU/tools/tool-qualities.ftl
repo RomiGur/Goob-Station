@@ -24,5 +24,3 @@ tool-quality-rolling-name = Раскатывание
 tool-quality-rolling-tool-name = Скалка
 tool-quality-digging-name = Копание
 tool-quality-digging-tool-name = Лопата
-tool-quality-brushing-name = Оттирание
-tool-quality-brushing-tool-name = Проволочная щётка

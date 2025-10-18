@@ -58,7 +58,4 @@ marking-HumanHairStyledCurls = Оформленные кудри
 marking-HumanHairUnkemptScientist = Неопрятный учёный
 marking-HumanHairWispy = Лёгкие пряди
 marking-HumanHairSpikeHawk = Колючий ирокез
-marking-HumanHairClassicBun = Классический пучок
-marking-HumanHairLooseBun = Свободный пучок
-marking-HumanHairLowPonytail = Низкий хвост
 marking-HumanHairLongTwinTails = Длинные хвостики

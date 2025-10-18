@@ -80,10 +80,7 @@
         soulOwnedNotDevil: true
       - type: Skills # CorvaxGoob-Skills
         skills:
-        - ShuttleControl
         - Shooting
-        - MedicalEquipment
-        - Surgery
   - !type:AddObjectiveSpecial
     objectives:
     - BlueshieldRandomCommandAliveObjective

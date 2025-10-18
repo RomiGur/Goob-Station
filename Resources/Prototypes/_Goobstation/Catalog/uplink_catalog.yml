@@ -634,10 +634,6 @@
   - !type:BuyerJobCondition
     whitelist:
     - Chaplain
-  - !type:ObjectiveCondition # CorvaxGoob : MRP antags
-    whitelist:
-    - HijackShuttleObjective
-    - NukeDiskStealObjective
   saleLimit: 1
 
 

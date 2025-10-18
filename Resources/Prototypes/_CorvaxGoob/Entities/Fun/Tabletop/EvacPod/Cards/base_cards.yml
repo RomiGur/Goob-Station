@@ -1,7 +1,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodProfession
-  name: Profession
+  name: profession card
   abstract: true
   components:
   - type: Card
@@ -15,7 +15,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodBiology
-  name: Biology
+  name: biology card
   abstract: true
   components:
   - type: Card
@@ -29,7 +29,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodHealth
-  name: Health
+  name: health card
   abstract: true
   components:
   - type: Card
@@ -43,7 +43,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodHobby
-  name: Hobby
+  name: hobby card
   abstract: true
   components:
   - type: Card
@@ -57,7 +57,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodBaggage
-  name: Baggage
+  name: baggage card
   abstract: true
   components:
   - type: Card
@@ -71,7 +71,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodFact
-  name: Fact
+  name: fact card
   abstract: true
   components:
   - type: Card
@@ -85,7 +85,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodSpecial
-  name: Special
+  name: special card
   abstract: true
   components:
   - type: Card
@@ -99,7 +99,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodCatastrophe
-  name: Catastrophe
+  name: catastrophe card
   abstract: true
   components:
   - type: Card
@@ -113,7 +113,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodDanger
-  name: Danger
+  name: danger card
   abstract: true
   components:
   - type: Card
@@ -127,7 +127,7 @@
 - type: entity
   parent: CardBase
   id: BaseCardEvacPodShuttle
-  name: Shuttle
+  name: shuttle card
   abstract: true
   components:
   - type: Card
