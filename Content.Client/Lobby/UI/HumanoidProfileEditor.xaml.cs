@@ -192,8 +192,7 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Utility;
 using Direction = Robust.Shared.Maths.Direction;
-using Content.Client._CorvaxGoob.TTS;
-using Content.Shared._CorvaxGoob; // CorvaxGoob-TTS
+using Content.Client._CorvaxGoob.TTS; // CorvaxGoob-TTS
 
 namespace Content.Client.Lobby.UI
 {
@@ -868,7 +867,7 @@ namespace Content.Client.Lobby.UI
                 var name = Loc.GetString(_species[i].Name);
 
                 if (_species[i].SponsorOnly) // CorvaxGoob-Sponsors
-                    name += SponsorUtils.GetSponsorOnlySuffix();
+                    name += " " + Loc.GetString("sponsor-only-text");
 
                 SpeciesButton.AddItem(name, i);
 

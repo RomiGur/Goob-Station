@@ -59,7 +59,7 @@
         components:
         - CommandStaff
       components:
-      # - type: Pacified # Commented by CorvaxGoob : MRP
+      - type: Pacified
       - type: Skills # CorvaxGoob-Skills
         skills:
         - ShuttleControl
