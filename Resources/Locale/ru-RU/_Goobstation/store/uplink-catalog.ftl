@@ -70,7 +70,7 @@ uplink-hardlight-bow-desc = Современный лук, создающий с
 
 # Job-specific
 
-uplink-pie-cannon-name = Пушка с регенерацией пирогов
+uplink-pie-cannon-name = Пироговыпекающая пушка
 uplink-pie-cannon-desc = Пушка, автоматически восстанавливающая пироги — по одному каждые 10 секунд.
 
 uplink-beenades-name = Пчелоната
