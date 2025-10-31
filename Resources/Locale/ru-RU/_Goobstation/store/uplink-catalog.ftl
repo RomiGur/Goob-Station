@@ -39,7 +39,7 @@ uplink-hardsuit-syndiecommander-desc = Запасной командирский
 # Cybersun Stealth
 
 uplink-hardsuit-cybersun-stealth-name = Маскировочный костюм Cybersun
-uplink-hardsuit-cybersun-stealth-desc = Реверс-инженеринг технологии Клана Паука. Этот костюм имеет пластины для скрытности, ради проведения спецопераций. Немного медленнее и с меньшей бронёй, чем другие скафандры.
+uplink-hardsuit-cybersun-stealth-desc = Реверс-инженеринг технологии Клана Паука. Этот костюм покрыт специализированными пластинами для проведения скрытых спецопераций. Немного медленнее и защищает меньше, чем другие скафандры.
 
 # Cybersun Dreadnought suit
 
